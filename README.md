@@ -1,4 +1,4 @@
-If you would like your clan family to be listed at [https://royaleapi.com/clans](https://royaleapi.com/clans) and [https://royaleapi.com/clans/families](https://royaleapi.com/clans/families), you will need to send us your clan configuration in [YAML](https://en.wikipedia.org/wiki/YAML). Read this guide thoroughly on how to configure it and then [open a new issue](https://github.com/RoyaleAPI/cr-api-ux/issues/new?template=family_config.md) with your configuration.
+If you would like your clan family to be listed at [https://royaleapi.com/clans](https://royaleapi.com/clans) and [https://royaleapi.com/clans/families](https://royaleapi.com/clans/families), you will need to send us your clan configuration in [YAML](https://en.wikipedia.org/wiki/YAML). Read this guide thoroughly on how to configure it and then [open a new issue](https://github.com/RoyaleAPI/family-config/issues/new?template=family_config.md) with your configuration.
 
 Please remember to escape your config as shown below with the three backticks when including it in your issue. First to open it with the three back ticks followed by the language `yaml`, and then to close it at the end.
 
@@ -63,58 +63,47 @@ You may order these in any order. The site will display them according to the or
 
 ## Examples
 
-### 100 Thieves Clan Family
+### RoyaleAPI Clan Family
 
-https://royaleapi.com/clan/family/100t
+https://royaleapi.com/clan/family/royaleapi
 
-[100t.yml](https://github.com/RoyaleAPI/cr-api-ux/blob/master/examples/family_config/100t.yml)
+[royaleapi.yml](https://github.com/RoyaleAPI/family-config/blob/master/examples/family_config/royaleapi.yml)
 
 ```yaml
-name: 100 Thieves Clan Family
-key: 100t
-color: red
-emblem: A_Char_Rocket_02
+name: RoyaleAPI Clan Family
+key: royaleapi
+color: blue
+emblem: Sword_02
 info:
-  logo: /static/img/brands/logo/racf.svg
+  logo: /static/img/branding/cr-api-logo.png
   description: >
-    **100 Thieves** is an esports team competing in the North American region of Clash Royale League.
-    The eight trophy-pushing clans below comprise the ladder branch of the organization.
-    The clans are home to many experienced tournament players, including three participants in the Crown Duel.
-    The clans were created as a result of a merger and re-branding of the Reddit Alpha Clan Family,
-    founded by Woody in January 2016.
+    The **RoyaleAPI Clan Family** (RACF) was originally known as the Reddit Alpha Clan Family and then briefly as the 100 Thieves Clan Family. Home to professional players that eventually moved on to play at CRNAO, King’s Cup, and CRL, our family fosters an environment where casual and competitive styles of play can both flourish.
   social:
-    - twitter: http://twitter.com/RedditAlpha
-    - discord: http://discord.gg/100t
-    - twitch: https://www.twitch.tv/woody
-    - reddit: http://www.reddit.com/r/CRRedditAlpha/
-    - youtube: https://www.youtube.com/channel/UCjC5dP9z3XQY6OEPWh5RiLw
-    - website: http://docs.redditalpha.com
+    - twitter: https://twitter.com/RoyaleAPI
+    - discord: https://discord.royaleapi.com
+    - website: https://fam.royaleapi.com
 clans:
-  - name: 100T Alpha
+  - name: RoyaleAPI Alpha
     tag: 9PJ82CRC
-  - name: 100T Bravo
+  - name: RoyaleAPI Bravo
     tag: 9UQJUJC9
-  - name: 100T Charlie
+  - name: RoyaleAPI Coca
     tag: 9G99JQPL
-  - name: 100T Delta
+  - name: RoyaleAPI Delta
     tag: 9G8VYGL0
-  - name: 100T Echo
+  - name: RoyaleAPI Echo
     tag: 9CJ0L9RG
-  - name: 100T Foxtrot
-    tag: 9UQC2P0V
-  - name: 100T Golf
-    tag: 9UG2R2LQ
-  - name: 100T Hotel
-    tag: 9Y9VR2JR
-  - name: 100T Zen
+  - name: RoyaleAPI Zen
     tag: 9LPVG9UC
+  - name: RoyaleAPI
+    tag: 9R8G9290
 ```
 
 ### LeGeND Family
 
 https://royaleapi.com/clan/family/legend
 
-[legend.yml](https://github.com/RoyaleAPI/cr-api-ux/blob/master/examples/family_config/legend.yml)
+[legend.yml](https://github.com/RoyaleAPI/family-config/blob/master/examples/family_config/legend.yml)
 
 ```yaml
 name: LeGeND Family
@@ -179,7 +168,7 @@ clans:
 
 https://royaleapi.com/clan/family/nova
 
-[nova.yml](https://github.com/RoyaleAPI/cr-api-ux/blob/master/examples/family_config/nova.yml)
+[nova.yml](https://github.com/RoyaleAPI/family-config/blob/master/examples/family_config/nova.yml)
 
 ```yaml
 name: Nova eSports
