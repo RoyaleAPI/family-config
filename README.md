@@ -77,7 +77,11 @@ emblem: Sword_02
 info:
   logo: /static/img/branding/cr-api-logo.png
   description: >
-    The **RoyaleAPI Clan Family** (RACF) was originally known as the Reddit Alpha Clan Family and then briefly as the 100 Thieves Clan Family. Home to professional players that eventually moved on to play at CRNAO, King’s Cup, and CRL, our family fosters an environment where casual and competitive styles of play can both flourish.
+    The **RoyaleAPI Clan Family** (RACF) was originally known as
+    the Reddit Alpha Clan Family and then briefly as the 100 Thieves Clan Family.
+    Home to professional players that eventually moved on to play at CRNAO,
+    King’s Cup, and CRL, our family fosters an environment where casual
+    and competitive styles of play can both flourish.
   social:
     - twitter: https://twitter.com/RoyaleAPI
     - discord: https://discord.royaleapi.com
