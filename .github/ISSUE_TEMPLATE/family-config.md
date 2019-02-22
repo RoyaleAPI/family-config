@@ -1,6 +1,9 @@
 ---
 name: Family Config
 about: Add your clan family to the website
+title: ''
+labels: ''
+assignees: ''
 
 ---
 
