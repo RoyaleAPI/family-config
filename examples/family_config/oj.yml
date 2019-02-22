@@ -1,0 +1,36 @@
+name: Orange Juice
+key: oj
+color: orange
+emblem: Orange_01
+sort: trophy
+info:
+  logo: /static/img/brands/logo/orangejuice.png
+  description: >
+    **Mmm, it’s a Orange Juice!**
+
+
+    [http://bit.ly/applyoj](http://bit.ly/applyoj)
+  social:
+    - twitter: https://twitter.com/OJeveryday
+    - twitter: https://twitter.com/OrangeTribeCR
+    - discord: https://discord.gg/oj
+    - youtube: https://www.youtube.com/OrangeJuiceGaming
+    - twitch: https://www.twitch.tv/OrangeJuice
+    - application: http://bit.ly/applyoj
+clans:
+  - name: Orange Juice
+    tag: 922VCJ
+  - name: Orange Leaf
+    tag: 829L22L9
+  - name: Orange Peak
+    tag: 2RGVPGRV
+  - name: Orange Peel
+    tag: YCL8RGG
+  - name: Orange Pulp
+    tag: CQ9UC0J
+  - name: Orange Seed
+    tag: U8QC28
+  - name: Orange Tree
+    tag: 8J82R0
+  - name: Orange Zest
+    tag: GJ20U28

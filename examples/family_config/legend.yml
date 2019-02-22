@@ -1,0 +1,56 @@
+name: LeGeND Family
+key: legend
+color: yellow
+emblem: Flame_03
+info:
+  logo: /static/img/brands/logo/legend.png
+  description: >
+    The Legend family is one of the oldest and biggest families in Clash Royale
+    with our 700 members and 14 clans!
+    Since creation, we as a family and individual players have grown immensely
+    and continue to today.
+    We believe that’s the reason why we have come so far.
+    **The family is a place for everyone, as our members come from all around the world,
+    from casual to competitive players, old to young,
+    active to very active and so on.**
+    We all share a fellow passion for the game, are friendly, always donate,
+    help each other out with the same goal: to always improve our skills and have a great time!
+    **Join the Family. Become a Legend. **
+  social:
+    - discord: https://discord.me/legendfamily
+    - website: https://legendclans.com
+    - twitter: https://twitter.com/TheLegendClans
+    - facebook: https://www.facebook.com/LegendClans
+    - instagram: https://www.instagram.com/legendclans
+    - youtube: https://www.youtube.com/channel/UCU-_xxoQeJlXx1kJcH1CoBQ
+    - reddit: https://www.reddit.com/user/LegendClans
+    - email: mailto:board@legendclans.com
+clans:
+  - name: Dragons Eight
+    tag: 29YPJYY
+  - name: LeGeND eSports!
+    tag: 2GJYVRYQ
+  - name: LeGeND Squad!
+    tag: 80CC8
+  - name: Dragons Eight 2
+    tag: Y8G9C09
+  - name: LeGeND Prime!
+    tag: 2LL8LC2R
+  - name: LeGeND Titan!
+    tag: 9PJYVVL2
+  - name: LeGeND Legion!
+    tag: VJQ0GJ0
+  - name: LeGeND Rising!
+    tag: RY9QJU2
+  - name: LeGeND Dynasty!
+    tag: 99R2PQVR
+  - name: LeGeND Phantom!
+    tag: 2CJ88808
+  - name: LeGeND Empire!
+    tag: 9P2PQULQ
+  - name: White Plague
+    tag: J0CQ9R9
+  - name: Dragons Eight 3
+    tag: 2ULY20LU
+  - name: LeGeND Academy!
+    tag: 8QRQQ8RG

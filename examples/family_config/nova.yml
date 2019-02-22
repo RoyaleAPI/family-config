@@ -1,0 +1,63 @@
+name: Nova eSports
+key: nova
+color: purple
+emblem: Star_Shine_03
+sort: trophy
+info:
+  logo: /static/img/brands/logo/nova.svg
+  description: >
+    **Competitive excellence through community-driven values.**
+    Nova is a mobile-focused eSports organization committed to empowering
+    individuals through a supportive team environment.
+    We look for talent that has the character to back it up.
+    That talent is cultivated and supported through team-based growth strategies and
+    passionate staff that care about player outcomes.
+    Community is the foundation of those outcomes and is the core of player dedication.
+  social:
+    - website: https://novaesports.com/
+    - twitter: https://twitter.com/NovaeSportsTeam
+    - instagram: https://instagram.com/novaesportsgg
+    - facebook: https://facebook.com/OfficialNovaeSports
+    - twitch: https://twitch.tv/NovaeSportsGG
+    - youtube: https://www.youtube.com/channel/UC4JS5NiRp4Sy1wl6qFkW3GQ
+    - application: https://novaesports.com/apply
+    - email: mailto:pr@novaesports.com
+clans:
+  - name: Nova eSports
+    tag: LCVUYCR
+  - name: Nova I ARG
+    tag: 8QC8YQJC
+  - name: Nova l Brazil
+    tag: JVRPGV8
+  - name: Nova I C.A
+    tag: 8JLVR9VV
+  - name: Nova l Canada
+    tag: 8PLYP8V
+  - name: Nova l EG
+    tag: 8YLJ8UL2
+  - name: Nova FrenchArmy
+    tag: 8VG2C9CJ
+  - name: Nova l Hispania
+    tag: 2CQQVQCU
+  - name: HK@852 l Nova
+    tag: 8JQQP8UL
+  - name: Nova l India
+    tag: 8GGC990V
+  - name: Nova I Iran
+    tag: 8YGRJ8GG
+  - name: Nova I Korea
+    tag: 92LLJ828
+  - name: Nova l JPN
+    tag: 2GYJL2GQ
+  - name: Nova l MANGÚ™
+    tag: 8JQP02QQ
+  - name: Nova l Potenza
+    tag: 2UP8R99Y
+  - name: Nova l Raze
+    tag: 8UY0CPU2
+  - name: Nova l Swiss
+    tag: 8RR89PUY
+  - name: Nova Turkey
+    tag: CYCJJLG
+  - name: Nova l 大唐天子
+    tag: RVL2PQQ
