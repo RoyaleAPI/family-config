@@ -1,0 +1,15 @@
+name: Bruxa de Blair
+key: Bruxa de Blair
+color: blue
+emblem: Sword_02
+info:
+  logo: /static/img/branding/cr-api-logo.png
+  description: >
+   Clãs Brazucas
+  social:
+    - discord: https://discordapp.com/channels/514496236880134144/514496236880134148
+clans:
+  - name: Bruxa de Blair
+    tag: 9LQJQY
+  - name: Animaniacos
+    tag: 9GYYQLYL
