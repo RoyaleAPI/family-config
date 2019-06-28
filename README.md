@@ -1,4 +1,4 @@
-If you would like your clan family to be listed at [https://royaleapi.com/clans](https://royaleapi.com/clans) and [https://royaleapi.com/clans/families](https://royaleapi.com/clans/families), you will need to send us your clan configuration in [YAML](https://en.wikipedia.org/wiki/YAML). Read this guide thoroughly on how to configure it and then [open a new issue](https://github.com/RoyaleAPI/family-config/issues/new?template=family_config.md) with your configuration.
+If you would like your clan family to be listed at [https://royaleapi.com/clans](https://royaleapi.com/clans) and [https://royaleapi.com/clans/families](https://royaleapi.com/clans/families), you will need to send us your clan configuration in [YAML](https://en.wikipedia.org/wiki/YAML). Read this guide thoroughly on how to configure it and then [open a new issue](https://github.com/RoyaleAPI/family-config/issues/new?template=family-config.md) with your configuration.
 
 Please remember to escape your config as shown below with the three backticks when including it in your issue. First to open it with the three back ticks followed by the language `yaml`, and then to close it at the end.
 
