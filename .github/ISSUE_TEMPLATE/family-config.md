@@ -18,35 +18,29 @@ Consult https://github.com/RoyaleAPI/cr-api-ux/wiki/Family-Config for detailed d
 Fill in the configuration below:
 
 ```yaml
-name:
-key:
-color:
+name: Clanes Albiceleste
+key:Albiceleste
+color:Blue
 emblem:
 info:
-  logo:
-  description: >
-    Long paragraphs with markdown syntax.
-
+  logo:https://dragon.img2go.com/download-file/e4a91d4d-864d-4689-87a5-006d295120af/279e2ca5-646a-45f7-87bb-a5c0f2cec323
+  description: 
+¡Más que un clan, una familia!
+Top 4 Arg. en Wars I 
+Aquí es donde les contendremos"! 
+¡Aquí es donde nosotros pelearemos! 
+¡Y aquí es donde ellos morirán!"
 
     Add new line with 2 line breaks as above.
   social:
-    - twitter: http://twitter.com/
-    - discord: http://discord.gg/
-    - twitch: https://www.twitch.tv/
-    - reddit: http://www.reddit.com/
-    - youtube: https://www.youtube.com/channel/
-    - website: http://docs.redditalpha.com
-    - instagram: https://instagram.com/
-    - facebook: https://facebook.com/
-    - twitch: https://twitch.tv/
-    - youtube: https://www.youtube.com/channel/
-    - application: https://url/
-    - email: mailto:
+    - twitter: http://twitter.com/albicelesteCR
+    - discord: https://discord.gg/5Ayk65kWs9
+    - twitch: https://www.twitch.tv/albicelestecr
+    - facebook: https://facebook.com/albicelesteCR
 clans:
-  - name: 100T Alpha
-    tag: 9PJ82CRC
-  - name:
-    tag:
-  - name:
-    tag:
+  - name: Albiceleste
+    tag: #LL92RRP
+  - name: Albiceleste II
+    tag: #YGP0GJCC
+ 
 ```
