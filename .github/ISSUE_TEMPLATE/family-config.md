@@ -24,12 +24,12 @@ color:blue
 emblem: 
 info:
   logo:https://dragon.img2go.com/download-file/e4a91d4d-864d-4689-87a5-006d295120af/279e2ca5-646a-45f7-87bb-a5c0f2cec323
-  description: >
-¡Más que un clan, una familia!
-Top 4 Arg. en Wars I 
-Aquí es donde les contendremos"! 
-¡Aquí es donde nosotros pelearemos! 
-¡Y aquí es donde ellos morirán!"
+  description: > 
+     Más que un clan, una familia!
+     Top 4 Arg. en Wars I 
+    **¡Aquí es donde les contendremos! 
+    ¡Aquí es donde nosotros pelearemos! 
+    ¡Y aquí es donde ellos morirán!**
 
     Add new line with 2 line breaks as above.
   social:
