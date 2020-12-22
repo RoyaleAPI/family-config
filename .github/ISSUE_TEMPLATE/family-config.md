@@ -18,10 +18,10 @@ Consult https://github.com/RoyaleAPI/cr-api-ux/wiki/Family-Config for detailed d
 Fill in the configuration below:
 
 ```yaml
-name: Clanes Albiceleste
-key:Albiceleste
-color:Blue
-emblem:
+name: Albiceleste
+key: Albiceleste
+color:blue
+emblem: 
 info:
   logo:https://dragon.img2go.com/download-file/e4a91d4d-864d-4689-87a5-006d295120af/279e2ca5-646a-45f7-87bb-a5c0f2cec323
   description: 
@@ -39,8 +39,8 @@ Aquí es donde les contendremos"!
     - facebook: https://facebook.com/albicelesteCR
 clans:
   - name: Albiceleste
-    tag: #LL92RRP
+    tag: LL92RRP
   - name: Albiceleste II
-    tag: #YGP0GJCC
+    tag: YGP0GJCC
  
 ```
