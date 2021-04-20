@@ -18,35 +18,28 @@ Consult https://github.com/RoyaleAPI/cr-api-ux/wiki/Family-Config for detailed d
 Fill in the configuration below:
 
 ```yaml
-name:
-key:
-color:
-emblem:
+name: Super Sableng Clan Family
+key: SS
+color: blue
+emblem: flag_e_02
 info:
-  logo:
+  logo: /static/img/branding/ss.png
   description: >
-    Long paragraphs with markdown syntax.
-
-
-    Add new line with 2 line breaks as above.
+    Keluarga Clan Super Sableng
+    Clan Orang Orang Sableng
   social:
-    - twitter: http://twitter.com/
-    - discord: http://discord.gg/
-    - twitch: https://www.twitch.tv/
-    - reddit: http://www.reddit.com/
-    - youtube: https://www.youtube.com/channel/
-    - website: http://docs.redditalpha.com
-    - instagram: https://instagram.com/
-    - facebook: https://facebook.com/
-    - twitch: https://twitch.tv/
-    - youtube: https://www.youtube.com/channel/
-    - application: https://url/
-    - email: mailto:
+    - instagram: https://instagram.com/supersableng212?igshid=1n09quuvk7zhl
+    - discord: https://discord.gg/fCXM9QtV/9rQ7zNF
+    - facebook: https://www.facebook.com/SuperSablengOfficial/
+    - twitter: https://twitter.com/SuperSableng?s=09
 clans:
-  - name: 100T Alpha
-    tag: 9PJ82CRC
-  - name:
-    tag:
-  - name:
-    tag:
+  - name: Super Sableng
+    tag: 8JUG9C0G
+  - name: Super Sableng 2
+    tag: YQC0PYGY
+  - name: Super Sableng 3
+    tag: YGU2RC2P
+  - name: Super Sableng 4
+    tag: #LP80CGYU
+
 ```
