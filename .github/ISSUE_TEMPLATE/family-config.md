@@ -1,23 +1,3 @@
----
-name: Family Config
-about: Add your clan family to the website
-title: ''
-labels: ''
-assignees: ''
-
----
-
-Consult https://github.com/RoyaleAPI/cr-api-ux/wiki/Family-Config for detailed description of all the fields. Here are some tips:
-
-- `color`: should be all lower case
-- `key`: will be used in the URL. Convention is to use all lower case
-- `emblem`: do not include the file extension `.png`
-- `description` and `links`: delete the lines if you have none
-- `tag`:  do not include the `#` hash tag with the clan tags
-
-Fill in the configuration below:
-
-```yaml
 name: Super Sableng Clan Family
 key: SS
 color: blue
@@ -40,6 +20,4 @@ clans:
   - name: Super Sableng 3
     tag: YGU2RC2P
   - name: Super Sableng 4
-    tag: #LP80CGYU
-
-```
+    tag: LP80CGY
