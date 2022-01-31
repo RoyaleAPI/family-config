@@ -1,0 +1,21 @@
+```yaml
+name: Wi and Fi(위앤피) Family
+key: Wi and Fi
+color: blue
+emblem: Freeze_01
+info:
+  logo: /p3rkkr/family-config/WiandFi.png
+  description: >
+    **위앤피 패밀리**에 오신 것을 환영합니다. 
+    Contact US : http://linktr.ee/wiandfi
+  social:
+    - website: https://linktr.ee/wiandfi
+    - discord: https://discord.com/invite/Zk74fmsYzE
+    - facebook: https://www.facebook.com/ClashRoyaleWiandFiClan/
+clans:
+  - name: Wi and Fi
+    tag: YLYJ8
+  - name: Wi and Fi 2nd
+    tag: PYPJU0
+    
+```
