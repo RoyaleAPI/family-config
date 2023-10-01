@@ -16,7 +16,7 @@ body:
         - `description` and `links`: delete the lines if you have none
         - `tag`:  do not include the `#` hash tag with the clan tags
   - type: textarea
-    id: description
+    id: config
     attributes:
       label: Family configuration
       description: Provide the full YAML config
