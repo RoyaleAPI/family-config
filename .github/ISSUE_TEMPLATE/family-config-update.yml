@@ -1,0 +1,32 @@
+name: Family Config - Update
+description: Update Existing Config
+title: "[Update]: "
+labels: []
+
+body:
+  - type: input
+    id: name
+    attributes:
+      label: Family name
+      description: What is the name of your family?
+      value: Put your the current name here
+  - type: input
+    id: url
+    attributes:
+      label: Family URL
+      description: What is the URL / link to your family right now?
+      value: Copy the link (URL address) from your browser and paste it here.
+
+  - type: textarea
+    id: config
+    attributes:
+      label: Family configuration
+      description: Provide the full YAML config
+      value: Paste your YAML config here
+      render: yaml
+  - type: textarea
+    id: info
+    attributes:
+      label: Additional Info
+      description: Provide additional info if necessary
+      value: 
