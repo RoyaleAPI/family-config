@@ -1,0 +1,19 @@
+name: Family Config
+description: Create new family config
+title: "[New]: "
+labels: []
+
+body:
+  - type: textarea
+    id: description
+    attributes:
+      label: Family configuration
+      description: Provide the full YAML config
+      value: Paste your YAML config here
+      render: yaml
+  - type: textarea
+    id: info
+    attributes:
+      label: Additional Info
+      description: Provide additional info if necessary
+      value: 
